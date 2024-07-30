@@ -1,0 +1,77 @@
+{
+    "total_count": 3,
+    "results": [
+        {
+            "dep_code": "95",
+            "date": "2021-09-07",
+            "day_hosp": 79,
+            "day_intcare": 8,
+            "tot_out": 4599,
+            "tot_death": 818,
+            "reg_code": 11,
+            "countrycode_iso_3166_1_alpha3": "FRA",
+            "region_min": "\u00cele-de-France",
+            "nom_dep_min": "Val-d'Oise",
+            "sex": "Femme",
+            "geo_point_2d": {
+                "lon": 2.12479545535,
+                "lat": 49.0821697186
+            },
+            "hospconv": "27.0",
+            "ssr_usld": "40.0",
+            "autres": "4.0",
+            "day_hosp_new": null,
+            "day_intcare_new": null,
+            "day_death_new": null,
+            "day_out_new": null
+        },
+        {
+            "dep_code": "95",
+            "date": "2021-09-07",
+            "day_hosp": 92,
+            "day_intcare": 25,
+            "tot_out": 5175,
+            "tot_death": 1238,
+            "reg_code": 11,
+            "countrycode_iso_3166_1_alpha3": "FRA",
+            "region_min": "\u00cele-de-France",
+            "nom_dep_min": "Val-d'Oise",
+            "sex": "Homme",
+            "geo_point_2d": {
+                "lon": 2.12479545535,
+                "lat": 49.0821697186
+            },
+            "hospconv": "37.0",
+            "ssr_usld": "25.0",
+            "autres": "5.0",
+            "day_hosp_new": null,
+            "day_intcare_new": null,
+            "day_death_new": null,
+            "day_out_new": null
+        },
+        {
+            "dep_code": "95",
+            "date": "2021-09-07",
+            "day_hosp": 171,
+            "day_intcare": 33,
+            "tot_out": 9856,
+            "tot_death": 2069,
+            "reg_code": 11,
+            "countrycode_iso_3166_1_alpha3": "FRA",
+            "region_min": "\u00cele-de-France",
+            "nom_dep_min": "Val-d'Oise",
+            "sex": "Tous",
+            "geo_point_2d": {
+                "lon": 2.12479545535,
+                "lat": 49.0821697186
+            },
+            "hospconv": "64.0",
+            "ssr_usld": "65.0",
+            "autres": "9.0",
+            "day_hosp_new": 9,
+            "day_intcare_new": 1,
+            "day_death_new": 0,
+            "day_out_new": 8
+        }
+    ]
+}
